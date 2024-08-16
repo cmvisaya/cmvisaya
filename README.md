@@ -17,4 +17,4 @@ I graduated from the University of Wisconsin-Madison with a degree in Computer S
 ### 🌟 Passion
 I am driven by a desire to bring new and fun experiences to players. Whether it's through innovative gameplay, immersive design, or captivating audio-visual elements, my goal is to create games that stand out and provide memorable experiences.
 
-Feel free to explore my repositories, projects, and contributions. If you have any questions or just want to connect, don't hesitate to reach out!
+Feel free to explore my repositories. If you have any questions or just want to connect, don't hesitate to reach out!
