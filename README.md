@@ -10,6 +10,10 @@ I graduated from the University of Wisconsin-Madison with a degree in Computer S
 - **Game Design**: I enjoy designing game systems and mechanics that offer players a unique and enjoyable experience.
 - **Music, Design, and Art**: Beyond programming, I have developed skills in music, design, and art, allowing me to contribute to various aspects of game development.
 
+### ✏️ What I'm Working On
+- **Programming Passion Projects**: I am currently working on a singleplayer game in Unity, as well as a data collection and statistical analysis project using Python and Firebase.
+- **Further Education**: I am pursuing a post-baccaleureate certificate from Northwestern University in Strategic Management.
+
 ### 🌟 Passion
 I am driven by a desire to bring new and fun experiences to players. Whether it's through innovative gameplay, immersive design, or captivating audio-visual elements, my goal is to create games that stand out and provide memorable experiences.
 
